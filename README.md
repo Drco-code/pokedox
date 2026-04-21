@@ -302,4 +302,4 @@ Good luck, and have fun catching all those Pokémon! 🎮
 
 ---
 
-**Made with ❤️ by a beginner developer**
+**Derrick Oware**
